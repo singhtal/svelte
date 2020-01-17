@@ -10,7 +10,7 @@ To create a new project based on this template using [degit](https://github.com/
 
 ```bash
 npx degit sveltejs/template svelte-app
-cd svelte-app
+cd svelte
 ```
 
 *Note that you will need to have [Node.js](https://nodejs.org) installed.*
